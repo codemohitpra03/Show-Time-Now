@@ -1,0 +1,6 @@
+/f/node_modules
+/b/node_modules
+/pay/node_modules
+
+/b/.env
+/pay/.env
